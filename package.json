@@ -1,0 +1,16 @@
+{
+  "name": "neobank-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
